@@ -56,4 +56,6 @@ for i in range(1, 101):
     sendTweet.click()
     time.sleep(0.5)
 
+driver.close()
+
 
